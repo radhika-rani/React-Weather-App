@@ -11,4 +11,4 @@ Currently, two official plugins are available:
 In your terminal, type
 
 
-npm run dev
+**npm run dev**
