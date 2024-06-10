@@ -12,4 +12,4 @@ Currently, two official plugins are available:
 In your terminal, type
 
 
-**npm run dev**
+**<h2>npm run dev</h2>**
