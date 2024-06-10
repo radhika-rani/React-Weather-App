@@ -11,7 +11,11 @@ Currently, two official plugins are available:
 
 In your terminal, type
 
+**<h2>npm i</h2>**
+This will install the node modules.
 
+
+Now type this command to run the app
 **<h2>npm run dev</h2>**
 
 This application shows current weather and 3 hourly forecast using the OpenWeatherMap API. It also shows additional information like Wind speed, humidity and weather description.
